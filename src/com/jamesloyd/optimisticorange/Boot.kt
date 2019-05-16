@@ -19,4 +19,4 @@ interface IThingDoer{
     }
 }
 
-object Test : IThingDoer
+object Test : IThingDoer //objects are singletons or static classes like in c#

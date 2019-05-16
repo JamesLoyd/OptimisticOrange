@@ -3,6 +3,7 @@ package com.jamesloyd.optimisticorange
 fun main(){
     Boot().showAHello()
     Test.doTheThing()
+    Nickle.getValue()
 }
 
 class Boot {

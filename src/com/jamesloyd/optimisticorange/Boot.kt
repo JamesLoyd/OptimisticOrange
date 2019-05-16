@@ -6,6 +6,6 @@ fun main(){
 
 class Boot {
     fun showAHello(){
-        println("Hello world")
+        println("Hello world I am James Loyd")
     }
 }

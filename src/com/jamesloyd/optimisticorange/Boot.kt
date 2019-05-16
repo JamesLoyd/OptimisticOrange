@@ -4,6 +4,7 @@ fun main(){
     Boot().showAHello()
     Test.doTheThing()
     Nickle.getValue()
+    Dime().getValue()
 }
 
 class Boot {
